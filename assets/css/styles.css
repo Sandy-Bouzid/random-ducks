@@ -1,0 +1,27 @@
+body{
+    background-image: url("../images/back-ducks.jpg");
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+header{
+    color: rgb(172, 31, 31);
+    background-color: rgba(223, 180, 7, 0.603);
+
+}
+
+.info {
+    font-weight: bold;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+.images {
+    max-width: 80vw;
+    max-height: 75vh;
+    margin: auto;
+}
+
